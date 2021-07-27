@@ -1,8 +1,8 @@
 # dotgen
 MATLAB program for generating dot array stimuli for magnitude perception studies
 
-'dotGenJP' and 'dotGenJP_peri' are MATLAB functions that creates magnitude dimension parameters for constructing dot arrays systematically across a 3D space defined by number (N), size (Sz), and spacing (Sp), according to the framework developed by DeWind, Adams, Platt, & Brannon (2015), http://dx.doi.org/10.1016/j.cognition.2015.05.016. The two dotGenJP functions use a slightly different definition of the Sz dimension, that is elaborated in Park, DeWind, Woldorff, & Brannon (2016), https://doi.org/10.1093/cercor/bhv017. 
-'dotField2GKA' is a MATLAB function that generates a field of non-overlapping dots of various radii, written by Geoffrey K. Adams.
+'dotGenJP' and 'dotGenJP_peri' are MATLAB functions that creates magnitude dimension parameters for constructing dot arrays systematically across a 3D space defined by number (N), size (Sz), and spacing (Sp), according to the framework developed by DeWind, Adams, Platt, & Brannon (2015). The two dotGenJP functions use a slightly different definition of the Sz dimension, that is elaborated in Park, DeWind, Woldorff, & Brannon (2016). 
+'dotField2GKA' is a MATLAB function that generates a field of non-overlapping dots of various radii, written by Geoffrey K. Adams. 
 
 'script_generate_dots.m' illustrates how these two functions are used for a systematic construction of dot arrays. 
 
