@@ -15,4 +15,4 @@ DeWind, N. K., Adams, G. K., Platt, M. L., & Brannon, E. M. (2015). Modeling the
 
 Park, J., DeWind, N. K., Woldorff, M. G., & Brannon, E. M. (2016). Rapid and Direct Encoding of Numerosity in the Visual Stream. Cerebral Cortex, 26(2), 748–763. https://doi.org/10.1093/cercor/bhv017
 
-Park, J. (under review). Flawed stimulus design in additive-area heuristic studies. Cognition. 
+Park, J. (in press). Flawed stimulus design in additive-area heuristic studies. Cognition. https://doi.org/10.1016/j.cognition.2021.104919
