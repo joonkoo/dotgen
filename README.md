@@ -9,7 +9,7 @@ MATLAB program for generating dot array stimuli for magnitude perception studies
 
 The code may contain errors, in which case please report them to the author. Please use them at your own risk.
 
-For a reference to the theoretical aspect of this code, please cite DeWind et al. (2015) and Park et al. (2016). For a reference to the implementation, please cite Park (under review).
+For a reference to the theoretical aspect of this code, please cite DeWind et al. (2015) and Park et al. (2016). For a reference to the implementation, please cite Park (in press).
 
 DeWind, N. K., Adams, G. K., Platt, M. L., & Brannon, E. M. (2015). Modeling the approximate number system to quantify the contribution of visual stimulus features. Cognition, 142, 247–265. https://doi.org/10.1016/j.cognition.2015.05.016
 
